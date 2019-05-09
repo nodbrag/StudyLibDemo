@@ -1,0 +1,11 @@
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\bin\Debug\netcoreapp2.2\MediatRDemo.deps.json
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\bin\Debug\netcoreapp2.2\MediatRDemo.runtimeconfig.json
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\bin\Debug\netcoreapp2.2\MediatRDemo.runtimeconfig.dev.json
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\bin\Debug\netcoreapp2.2\MediatRDemo.dll
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\obj\Debug\netcoreapp2.2\MediatRDemo.csproj.CoreCompileInputs.cache
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\obj\Debug\netcoreapp2.2\MediatRDemo.AssemblyInfoInputs.cache
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\obj\Debug\netcoreapp2.2\MediatRDemo.AssemblyInfo.cs
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\bin\Debug\netcoreapp2.2\MediatRDemo.pdb
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\obj\Debug\netcoreapp2.2\MediatRDemo.dll
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\obj\Debug\netcoreapp2.2\MediatRDemo.pdb
+F:\study\NetCore\StudyDemo\StudyLibDemo\MediatRDemo\obj\Debug\netcoreapp2.2\MediatRDemo.csprojAssemblyReference.cache
