@@ -1,0 +1,11 @@
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\obj\Debug\netcoreapp2.2\Mediator.csprojAssemblyReference.cache
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\obj\Debug\netcoreapp2.2\Mediator.csproj.CoreCompileInputs.cache
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\obj\Debug\netcoreapp2.2\Mediator.AssemblyInfoInputs.cache
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\obj\Debug\netcoreapp2.2\Mediator.AssemblyInfo.cs
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\bin\Debug\netcoreapp2.2\Mediator.deps.json
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\bin\Debug\netcoreapp2.2\Mediator.runtimeconfig.json
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\bin\Debug\netcoreapp2.2\Mediator.runtimeconfig.dev.json
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\bin\Debug\netcoreapp2.2\Mediator.dll
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\bin\Debug\netcoreapp2.2\Mediator.pdb
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\obj\Debug\netcoreapp2.2\Mediator.dll
+F:\study\NetCore\StudyDemo\StudyLibDemo\Mediator\obj\Debug\netcoreapp2.2\Mediator.pdb

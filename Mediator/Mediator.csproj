@@ -6,9 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="doc\**" />
-    <EmbeddedResource Remove="doc\**" />
-    <None Remove="doc\**" />
+    <Folder Include="doc\" />
   </ItemGroup>
 
 </Project>
